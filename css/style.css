@@ -1,0 +1,14 @@
+body {
+font-family: Verdana;
+text-align: center;
+background-color: maroon;
+color: white;
+}
+
+a {
+color: white;
+}
+
+table, th, td {
+border: 2px solid black;
+}
